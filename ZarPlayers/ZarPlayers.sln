@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZarPlayers", "ZarPlayers\ZarPlayers.csproj", "{FBF60A62-4D7F-4C2C-941D-D009C2CBEA87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF60A62-4D7F-4C2C-941D-D009C2CBEA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF60A62-4D7F-4C2C-941D-D009C2CBEA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF60A62-4D7F-4C2C-941D-D009C2CBEA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF60A62-4D7F-4C2C-941D-D009C2CBEA87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2F0C9F-197A-46CF-AD30-5CCA266D81D3}
+	EndGlobalSection
+EndGlobal
